@@ -5,7 +5,7 @@ This repository contains implementation of image segmentation model supported by
 * clone this repository into your local machine
 <pre>
 <code>
-git clone https://github.com/prabandh1444/Prospace
+git clone https://github.com/prabandh1444/Prospace.git
 </code>
 </pre>   
 * Usage in python 3.10
